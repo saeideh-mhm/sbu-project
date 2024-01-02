@@ -1,0 +1,14 @@
+.c{
+    border-color: rgb(238, 241, 243);
+    border-radius: 1%;
+}
+.d{
+    background-image: url(https://lms1.sbu.ac.ir/theme/image.php/lambda/theme/1668236620/page_bg/page_bg_blur01);
+    /* height: 130vh; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+.b{
+    display: inline;
+}
